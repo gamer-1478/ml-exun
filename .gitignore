@@ -1,0 +1,6 @@
+*.zip
+/data/*
+/data
+
+/Test_Data/*
+/Test_Data
